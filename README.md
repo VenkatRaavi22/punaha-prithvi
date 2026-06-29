@@ -1,21 +1,55 @@
-📝 Extended Description
+# 🌱 Punaha-Prithvi
 
-Punaha-Prithvi is more than just an app—it’s a movement. By combining environmental gamification with community-driven civic reporting, it empowers users to make tangible improvements in their surroundings.
+> **More than just an app—it’s a movement.** 
 
-Eco-friendly actions: Track daily activities like reducing plastic usage, planting trees, or using public transport.
+Punaha-Prithvi bridges the gap between individual environmental responsibility and collective civic action. By combining **environmental gamification** with **community-driven civic reporting**, it empowers everyday citizens to make tangible, lasting improvements in their local surroundings.
 
-Civic impact: Identify and report local issues such as garbage accumulation, water leakage, or unsafe roads.
+---
 
-Motivation through rewards: Points, badges, and leaderboards encourage consistent participation and community engagement.
+## ✨ Key Features
 
-Data-driven insights: Users can view their contributions over time, helping them understand their personal environmental impact.
+### 🍃 Eco-Friendly Action Tracking
+* **Daily Sustainability Habits:** Log and track green activities such as reducing single-use plastic, planting trees, conserving water, or opting for public transit.
+* **Habit Formation:** Built-in streaks to help users turn occasional eco-friendly acts into lifelong sustainable habits.
 
-Community growth: Connect with like-minded individuals and collectively work towards a greener, safer, and healthier world.
+### 🛑 Civic Impact & Reporting
+* **Crowdsourced Problem Solving:** Identify, document, and report pressing localized issues like illegal garbage accumulation, water main leakages, or hazardous road conditions.
+* **Geotagged Reports:** Submit real-time data and photos to bring transparency and visibility to neighborhood concerns.
 
-💡 Contribution
+### 🏆 Gamification & Rewards
+* **Engagement Engine:** Earn points, unlock unique achievement badges, and climb localized leaderboards.
+* **Friendly Competition:** Stay motivated through positive reinforcement and community-wide milestones.
 
-Contributions are welcome! Feel free to submit issues, feature requests, or pull requests. Let’s make the world greener together!
+### 📊 Data-Driven Insights
+* **Personal Analytics:** Visualize your environmental footprint reduction and civic contributions over time with intuitive charts.
+* **Community Impact:** See the macro-level difference your neighborhood or city is making collectively.
 
-📜 License
+### 👥 Community Growth
+* **Eco-Network:** Connect with like-minded individuals, join local cleanup drives, and collaborate on neighborhood green initiatives.
 
-MIT License
+---
+
+## 🛠️ Tech Stack (Example Template)
+
+*Note: Update this section with the exact technologies used in your project.*
+
+| Frontend | Backend & Database | DevOps & Tools |
+| :--- | :--- | :--- |
+| • React Native / Flutter<br>• Tailwind CSS | • Node.js / Python<br>• PostgreSQL / MongoDB | • Docker<br>• Git / GitHub Actions |
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up a local development environment.
+
+### Prerequisites
+* Ensure you have [Node.js](https://nodejs.org/) (v18+) or the respective runtime installed.
+* Package manager: `npm` or `yarn`
+
+### Installation & Local Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/yourusername/punaha-prithvi.git](https://github.com/yourusername/punaha-prithvi.git)
+   cd punaha-prithvi
